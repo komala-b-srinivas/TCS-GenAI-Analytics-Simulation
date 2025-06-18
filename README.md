@@ -24,7 +24,7 @@ This repository showcases my work as part of the **TCS GenAI-Powered Data Analyt
 
 - `models/`: Python code for each predictive model
 - `reports/`: My official submissions for Tasks 2, 3, and 4
-- `images/`: Visuals comparing model performance
+- `output/`: Cleaned dataset and saved plots
 
 ##  Author
 
